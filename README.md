@@ -1,3 +1,3 @@
-# website1
-First django project
-Creating a music app!
+# Website1
+First django project.
+Creating a Music App!
